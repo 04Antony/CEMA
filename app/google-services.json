@@ -1,0 +1,31 @@
+
+{
+  "project_info": {
+    "project_number": "69763272942",
+    "firebase_url": "https://cema-68ae2-default-rtdb.firebaseio.com",
+    "project_id": "cema-68ae2",
+    "storage_bucket": "cema-68ae2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69763272942:android:1cb3f2761978f3a40563ff",
+        "android_client_info": {
+          "package_name": "com.example.cema"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9P_kLEs4o9QiWSgejKscPw16mlU-iqC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
